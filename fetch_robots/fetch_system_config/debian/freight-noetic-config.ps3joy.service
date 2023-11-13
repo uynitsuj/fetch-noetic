@@ -1,0 +1,13 @@
+[Unit]
+Description=Job that launches the ps3joy node once roscore has started
+After=roscore.service
+BindsTo=roscore.service
+
+[Install]
+WantedBy=roscore.service
+
+[Service]
+Environment="ROS_LOG_DIR=/var/log/ros"
+Restart=on-failure
+
+ExecStart=/bin/bash -c ". /home/fetch/catkin_ws/devel/setup.bash && rosrun ps3joy ps3joy_node.py"

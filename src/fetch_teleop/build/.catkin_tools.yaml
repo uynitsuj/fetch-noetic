@@ -1,0 +1,6 @@
+devel_space: /home/fetch/fetch_ros/fetch_teleop/devel
+install: false
+install_space: /home/fetch/fetch_ros/fetch_teleop/install
+profile: default
+source_space: /home/fetch/fetch_ros/fetch_teleop/src
+workspace: /home/fetch/fetch_ros/fetch_teleop

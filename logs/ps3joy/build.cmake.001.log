@@ -1,0 +1,14 @@
+Not searching for unused variables given on the command line.
+[36m--[0m Checking for one of the modules 'libusb'
+[31m[1mCMake Error[0m at /usr/share/cmake-3.16/Modules/FindPkgConfig.cmake:707 (message):
+  None of the required 'libusb' found
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:6 (pkg_search_module)
+
+
+[31m[1mCMake Error[0m at /home/fetch/catkin_ws/src/ps3joy/CMakeLists.txt:11 (message):
+  Failed to find libusb
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/fetch/catkin_ws/build/ps3joy/CMakeFiles/CMakeOutput.log".

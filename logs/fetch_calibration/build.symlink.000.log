@@ -1,0 +1,5 @@
+Symlinking /home/fetch/catkin_ws/devel/share/fetch_calibration/cmake/fetch_calibrationConfig.cmake
+Symlinking /home/fetch/catkin_ws/devel/share/fetch_calibration/cmake/fetch_calibrationConfig-version.cmake
+Symlinking /home/fetch/catkin_ws/devel/lib/pkgconfig/fetch_calibration.pc
+Symlinking /home/fetch/catkin_ws/devel/bin/calibrate_robot
+Symlinking /home/fetch/catkin_ws/devel/bin/cmake.lock

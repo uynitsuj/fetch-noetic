@@ -1,0 +1,6 @@
+devel_space: /home/fetch/catkin_ws/devel
+install: false
+install_space: /home/fetch/catkin_ws/install
+profile: default
+source_space: /home/fetch/catkin_ws/src
+workspace: /home/fetch/catkin_ws

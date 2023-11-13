@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fetch/fetch_ros/fetch_teleop/install/setup.sh

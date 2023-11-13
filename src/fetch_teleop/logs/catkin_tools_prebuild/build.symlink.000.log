@@ -1,0 +1,12 @@
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./setup.sh
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./local_setup.bash
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./cmake.lock
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./setup.bash
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./setup.zsh
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./local_setup.zsh
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./local_setup.sh
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./env.sh
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/./_setup_util.py
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/fetch/fetch_ros/fetch_teleop/devel/lib/pkgconfig/catkin_tools_prebuild.pc
